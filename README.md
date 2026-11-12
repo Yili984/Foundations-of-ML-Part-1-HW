@@ -1,0 +1,1 @@
+This is a repo for my machine learning coding practice for my class where we explore many fundamental models including linear models, random sink, neutral networks, random forest, gradient boosting, regularization etc.
